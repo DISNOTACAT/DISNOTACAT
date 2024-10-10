@@ -9,7 +9,7 @@
 
 **👀 연이현 백엔드 이력서 확인하기 👀**
 
-<a href="https://www.notion.so/yearweekend/112784537014803aa600f13d1cef18d9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -ffffff?style=border: 1.2px solid black;" ></a> 
+<a href="https://www.notion.so/yearweekend/112784537014803aa600f13d1cef18d9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -ffffff?style=for-the-badge&logo=java&logoColor=white; border: 1.2px solid black;" ></a> 
 
 <br>
 

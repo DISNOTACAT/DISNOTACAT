@@ -4,12 +4,8 @@
 
 # 🙆‍♀️Introduce 
 안녕하세요 백엔드 개발자로 성장 중인 연이현 입니다.😁 <br>
-웹 개발에 관심이 많아요. 끝없는 호기심으로 발전하는 중입니다.
+최근 TDD와 클린코드에 관심이 많아요. 끝없는 호기심을 해소하며 발전하는 중입니다.
 <br>
-
-**👀 연이현 백엔드 이력서 확인하기 👀**
-
-<a href="https://yearweekend.notion.site/112784537014803aa600f13d1cef18d9" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> 
 
 <br>
 

@@ -4,7 +4,13 @@
 
 # 🙆‍♀️Introduce 
 안녕하세요 백엔드 개발자로 성장 중인 연이현 입니다.😁 <br>
-최근 TDD와 클린코드에 관심이 많아요. 끝없는 호기심을 해소하며 발전하는 중입니다.
+최근 TDD와 AI를 활용한 코딩에 관심이 많아요. 끝없는 호기심을 해소하며 발전하는 중입니다.
+<br>
+
+**👀 연이현 백엔드 포트폴리오 확인하기 👀**
+
+<a href="https://m.site.naver.com/1JuDT" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> 
+
 <br>
 
 <br>

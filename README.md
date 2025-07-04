@@ -3,10 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=DISNOTACAT&fontSize=70)
 
 # 🙆‍♀️Introduce 
-안녕하세요 상상을 현실로 가져오는 백엔드 개발자 연이현 입니다.😁 <br>
+안녕하세요. 
+<br>
+
+상상을 현실로 가져오는 백엔드 개발자 연이현 입니다.😁 <br>
 최근 TDD와 AI를 활용한 개발에 관심이 많아요. 
 
 끊없는 호기심을 에너지로 발전하는 중입니다.
+<br>
 <br>
 
 **👀 연이현 백엔드 포트폴리오 확인하기 👀**

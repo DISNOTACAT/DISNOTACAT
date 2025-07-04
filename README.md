@@ -21,7 +21,7 @@
 
 #  📚 Stacks
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <br>

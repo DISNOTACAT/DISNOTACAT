@@ -10,12 +10,14 @@
 최근 TDD와 AI를 활용한 개발에 관심이 많아요. 
 
 끊없는 호기심을 에너지로 발전하는 중입니다.
-<br>
+
 <br>
 
-**👀 연이현 백엔드 포트폴리오 확인하기 👀**
+<br>
 
-<a href="https://m.site.naver.com/1JuDT" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> 
+<!-- **👀 연이현 백엔드 포트폴리오 확인하기 👀** -->
+
+<!-- <a href="https://m.site.naver.com/1JuDT" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> -->
 
 <br>
 
@@ -71,11 +73,13 @@
 </div>
 
 <br>
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DISNOTACAT)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 <hr>
 </div>
 
